@@ -8,5 +8,5 @@
 
 沈航训练仓库链接https://github.com/RangerOnMars/TUP-NN-Train
 
-数据集网盘链接：https://pan.baidu.com/s/1T-Mayka38C_uznS7lu4aZg?pwd=8888 
+数据集网盘链接：https://pan.baidu.com/s/1aEOvAzFuRX5O9LXji64ulw?pwd=8888 
 提取码：8888
